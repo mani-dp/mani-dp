@@ -16,15 +16,15 @@
 
 ## 🚀 About Me
 
-سلام! 👋 من **مانی** هستم، ۱۸ سالمه و حدود **۲ ساله** که دارم برنامه‌نویسی می‌کنم.
+Hi! 👋 I'm **Mani**, 18 years old, and I've been coding for about **2 years**.
 
-کار اصلیم **فرانت‌اند** با React.js و Next.js هست، اما با **بک‌اند** هم آشنام و با Express.js کار می‌کنم. الان دارم مهارت‌های بک‌اندم رو قوی‌تر می‌کنم تا بتونم پروژه‌های کامل‌تری بسازم. 🚀
+My main focus is **Frontend** with React.js and Next.js, but I'm also familiar with **Backend** using Express.js. Right now I'm working on improving my backend skills to build more complete projects. 🚀
 
-- 🔭 در حال کار روی پروژه‌های **Full-Stack**
-- 🌱 در حال یادگیری عمیق‌تر **Backend Development**
-- 💬 هر سوالی درباره **React، Next.js یا Express** داری بپرس
-- 📫 راه ارتباط: **mani.darvish2020@gmail.com**
-- ⚡ یه نکته: **با console.log دیباگ می‌کنم و بهش افتخار می‌کنم** 😄
+- 🔭 I'm currently working on **Full-Stack projects**
+- 🌱 I'm currently learning **Backend Development** deeply
+- 💬 Ask me about **React, Next.js, or Express**
+- 📫 How to reach me: **mani.darvish2020@gmail.com**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it** 😄
 
 ---
 
